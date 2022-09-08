@@ -1,0 +1,24 @@
+{
+  "name": "instalacion-ejs-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jedamara/instalacion-ejs-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jedamara/instalacion-ejs-node/issues"
+  },
+  "homepage": "https://github.com/Jedamara/instalacion-ejs-node#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
